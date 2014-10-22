@@ -1,0 +1,9 @@
+*.xcuserdatad
+.DS_Store
+/build
+/ipa
+/Pods
+
+*.swp
+*~
+*.bak
